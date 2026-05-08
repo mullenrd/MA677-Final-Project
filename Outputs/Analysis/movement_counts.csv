@@ -1,0 +1,24 @@
+broad_archetype_tuned,archetype_movement,n,movement_prob
+Complete,Same archetype,71,0.31004366812227074
+Complete,Downgraded archetype,128,0.5589519650655022
+Complete,Reduced/limited role,2,0.008733624454148471
+Complete,Exited MLB,28,0.1222707423580786
+Contact/discipline-based,Upgraded archetype,134,0.08170731707317073
+Contact/discipline-based,Same archetype,812,0.4951219512195122
+Contact/discipline-based,Downgraded archetype,210,0.12804878048780488
+Contact/discipline-based,Reduced/limited role,105,0.06402439024390244
+Contact/discipline-based,Exited MLB,379,0.23109756097560977
+Low offensive profile,Upgraded archetype,378,0.3225255972696246
+Low offensive profile,Same archetype,344,0.2935153583617747
+Low offensive profile,Reduced/limited role,153,0.13054607508532423
+Low offensive profile,Exited MLB,297,0.25341296928327645
+Middle-profile,Upgraded archetype,185,0.3345388788426763
+Middle-profile,Same archetype,95,0.1717902350813743
+Middle-profile,Downgraded archetype,90,0.162748643761302
+Middle-profile,Reduced/limited role,53,0.09584086799276673
+Middle-profile,Exited MLB,130,0.23508137432188064
+Power-based,Upgraded archetype,69,0.04771784232365145
+Power-based,Same archetype,704,0.48686030428769017
+Power-based,Downgraded archetype,368,0.2544951590594744
+Power-based,Reduced/limited role,72,0.04979253112033195
+Power-based,Exited MLB,233,0.16113416320885202

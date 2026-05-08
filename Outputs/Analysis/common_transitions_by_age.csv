@@ -1,0 +1,404 @@
+age_plot,age_group,from,to,archetype_movement,n,transition_share,small_cell
+22,22 and under,Complete,Complete,Same archetype,2,0.5,TRUE
+22,22 and under,Complete,Contact/discipline-based,Downgraded archetype,1,0.25,TRUE
+22,22 and under,Complete,Power-based,Downgraded archetype,1,0.25,TRUE
+22,22 and under,Contact/discipline-based,Complete,Upgraded archetype,1,0.02631578947368421,FALSE
+22,22 and under,Contact/discipline-based,Contact/discipline-based,Same archetype,20,0.5263157894736842,FALSE
+22,22 and under,Contact/discipline-based,Low offensive profile,Downgraded archetype,8,0.21052631578947367,FALSE
+22,22 and under,Contact/discipline-based,Middle-profile,Downgraded archetype,2,0.05263157894736842,FALSE
+22,22 and under,Contact/discipline-based,Power-based,Upgraded archetype,6,0.15789473684210525,FALSE
+22,22 and under,Contact/discipline-based,Reduced/limited role,Reduced/limited role,1,0.02631578947368421,FALSE
+22,22 and under,Low offensive profile,Contact/discipline-based,Upgraded archetype,7,0.21875,FALSE
+22,22 and under,Low offensive profile,Low offensive profile,Same archetype,16,0.5,FALSE
+22,22 and under,Low offensive profile,Middle-profile,Upgraded archetype,2,0.0625,FALSE
+22,22 and under,Low offensive profile,Power-based,Upgraded archetype,6,0.1875,FALSE
+22,22 and under,Low offensive profile,Reduced/limited role,Reduced/limited role,1,0.03125,FALSE
+22,22 and under,Middle-profile,Complete,Upgraded archetype,1,0.08333333333333333,FALSE
+22,22 and under,Middle-profile,Contact/discipline-based,Upgraded archetype,3,0.25,FALSE
+22,22 and under,Middle-profile,Middle-profile,Same archetype,4,0.3333333333333333,FALSE
+22,22 and under,Middle-profile,Power-based,Upgraded archetype,3,0.25,FALSE
+22,22 and under,Middle-profile,Reduced/limited role,Reduced/limited role,1,0.08333333333333333,FALSE
+22,22 and under,Power-based,Complete,Upgraded archetype,5,0.125,FALSE
+22,22 and under,Power-based,Contact/discipline-based,Downgraded archetype,3,0.075,FALSE
+22,22 and under,Power-based,Low offensive profile,Downgraded archetype,3,0.075,FALSE
+22,22 and under,Power-based,Middle-profile,Downgraded archetype,2,0.05,FALSE
+22,22 and under,Power-based,Power-based,Same archetype,26,0.65,FALSE
+22,22 and under,Power-based,Reduced/limited role,Reduced/limited role,1,0.025,FALSE
+23,23,Complete,Complete,Same archetype,3,0.375,TRUE
+23,23,Complete,Contact/discipline-based,Downgraded archetype,1,0.125,TRUE
+23,23,Complete,Middle-profile,Downgraded archetype,1,0.125,TRUE
+23,23,Complete,Power-based,Downgraded archetype,3,0.375,TRUE
+23,23,Contact/discipline-based,Complete,Upgraded archetype,3,0.06,FALSE
+23,23,Contact/discipline-based,Contact/discipline-based,Same archetype,28,0.56,FALSE
+23,23,Contact/discipline-based,Low offensive profile,Downgraded archetype,11,0.22,FALSE
+23,23,Contact/discipline-based,Middle-profile,Downgraded archetype,2,0.04,FALSE
+23,23,Contact/discipline-based,Power-based,Upgraded archetype,5,0.1,FALSE
+23,23,Contact/discipline-based,Reduced/limited role,Reduced/limited role,1,0.02,FALSE
+23,23,Low offensive profile,Contact/discipline-based,Upgraded archetype,8,0.19047619047619047,FALSE
+23,23,Low offensive profile,Low offensive profile,Same archetype,17,0.40476190476190477,FALSE
+23,23,Low offensive profile,Middle-profile,Upgraded archetype,5,0.11904761904761904,FALSE
+23,23,Low offensive profile,Power-based,Upgraded archetype,9,0.21428571428571427,FALSE
+23,23,Low offensive profile,Reduced/limited role,Reduced/limited role,3,0.07142857142857142,FALSE
+23,23,Middle-profile,Complete,Upgraded archetype,1,0.058823529411764705,FALSE
+23,23,Middle-profile,Contact/discipline-based,Upgraded archetype,3,0.17647058823529413,FALSE
+23,23,Middle-profile,Low offensive profile,Downgraded archetype,6,0.35294117647058826,FALSE
+23,23,Middle-profile,Middle-profile,Same archetype,3,0.17647058823529413,FALSE
+23,23,Middle-profile,Power-based,Upgraded archetype,4,0.23529411764705882,FALSE
+23,23,Power-based,Complete,Upgraded archetype,1,0.023255813953488372,FALSE
+23,23,Power-based,Contact/discipline-based,Downgraded archetype,3,0.06976744186046512,FALSE
+23,23,Power-based,Low offensive profile,Downgraded archetype,5,0.11627906976744186,FALSE
+23,23,Power-based,Middle-profile,Downgraded archetype,3,0.06976744186046512,FALSE
+23,23,Power-based,Power-based,Same archetype,31,0.7209302325581395,FALSE
+24,24,Complete,Complete,Same archetype,5,0.38461538461538464,FALSE
+24,24,Complete,Contact/discipline-based,Downgraded archetype,3,0.23076923076923078,FALSE
+24,24,Complete,Middle-profile,Downgraded archetype,1,0.07692307692307693,FALSE
+24,24,Complete,Power-based,Downgraded archetype,3,0.23076923076923078,FALSE
+24,24,Complete,Reduced/limited role,Reduced/limited role,1,0.07692307692307693,FALSE
+24,24,Contact/discipline-based,Complete,Upgraded archetype,1,0.013888888888888888,FALSE
+24,24,Contact/discipline-based,Contact/discipline-based,Same archetype,51,0.7083333333333334,FALSE
+24,24,Contact/discipline-based,Low offensive profile,Downgraded archetype,3,0.041666666666666664,FALSE
+24,24,Contact/discipline-based,Middle-profile,Downgraded archetype,6,0.08333333333333333,FALSE
+24,24,Contact/discipline-based,Power-based,Upgraded archetype,7,0.09722222222222222,FALSE
+24,24,Contact/discipline-based,Reduced/limited role,Reduced/limited role,4,0.05555555555555555,FALSE
+24,24,Low offensive profile,Contact/discipline-based,Upgraded archetype,15,0.17857142857142858,FALSE
+24,24,Low offensive profile,Low offensive profile,Same archetype,36,0.42857142857142855,FALSE
+24,24,Low offensive profile,Middle-profile,Upgraded archetype,8,0.09523809523809523,FALSE
+24,24,Low offensive profile,Power-based,Upgraded archetype,20,0.23809523809523808,FALSE
+24,24,Low offensive profile,Reduced/limited role,Reduced/limited role,5,0.05952380952380952,FALSE
+24,24,Middle-profile,Contact/discipline-based,Upgraded archetype,8,0.32,FALSE
+24,24,Middle-profile,Low offensive profile,Downgraded archetype,5,0.2,FALSE
+24,24,Middle-profile,Middle-profile,Same archetype,6,0.24,FALSE
+24,24,Middle-profile,Power-based,Upgraded archetype,5,0.2,FALSE
+24,24,Middle-profile,Reduced/limited role,Reduced/limited role,1,0.04,FALSE
+24,24,Power-based,Complete,Upgraded archetype,5,0.04854368932038835,FALSE
+24,24,Power-based,Contact/discipline-based,Downgraded archetype,13,0.1262135922330097,FALSE
+24,24,Power-based,Low offensive profile,Downgraded archetype,17,0.1650485436893204,FALSE
+24,24,Power-based,Middle-profile,Downgraded archetype,9,0.08737864077669903,FALSE
+24,24,Power-based,Power-based,Same archetype,57,0.5533980582524272,FALSE
+24,24,Power-based,Reduced/limited role,Reduced/limited role,2,0.019417475728155338,FALSE
+25,25,Complete,Complete,Same archetype,8,0.5333333333333333,FALSE
+25,25,Complete,Contact/discipline-based,Downgraded archetype,4,0.26666666666666666,FALSE
+25,25,Complete,Power-based,Downgraded archetype,3,0.2,FALSE
+25,25,Contact/discipline-based,Complete,Upgraded archetype,7,0.06140350877192982,FALSE
+25,25,Contact/discipline-based,Contact/discipline-based,Same archetype,74,0.6491228070175439,FALSE
+25,25,Contact/discipline-based,Low offensive profile,Downgraded archetype,14,0.12280701754385964,FALSE
+25,25,Contact/discipline-based,Middle-profile,Downgraded archetype,8,0.07017543859649122,FALSE
+25,25,Contact/discipline-based,Power-based,Upgraded archetype,8,0.07017543859649122,FALSE
+25,25,Contact/discipline-based,Reduced/limited role,Reduced/limited role,3,0.02631578947368421,FALSE
+25,25,Low offensive profile,Complete,Upgraded archetype,1,0.012195121951219513,FALSE
+25,25,Low offensive profile,Contact/discipline-based,Upgraded archetype,14,0.17073170731707318,FALSE
+25,25,Low offensive profile,Low offensive profile,Same archetype,37,0.45121951219512196,FALSE
+25,25,Low offensive profile,Middle-profile,Upgraded archetype,10,0.12195121951219512,FALSE
+25,25,Low offensive profile,Power-based,Upgraded archetype,15,0.18292682926829268,FALSE
+25,25,Low offensive profile,Reduced/limited role,Reduced/limited role,5,0.06097560975609756,FALSE
+25,25,Middle-profile,Contact/discipline-based,Upgraded archetype,14,0.2978723404255319,FALSE
+25,25,Middle-profile,Low offensive profile,Downgraded archetype,4,0.0851063829787234,FALSE
+25,25,Middle-profile,Middle-profile,Same archetype,15,0.3191489361702128,FALSE
+25,25,Middle-profile,Power-based,Upgraded archetype,12,0.2553191489361702,FALSE
+25,25,Middle-profile,Reduced/limited role,Reduced/limited role,2,0.0425531914893617,FALSE
+25,25,Power-based,Complete,Upgraded archetype,8,0.06837606837606838,FALSE
+25,25,Power-based,Contact/discipline-based,Downgraded archetype,15,0.1282051282051282,FALSE
+25,25,Power-based,Low offensive profile,Downgraded archetype,16,0.13675213675213677,FALSE
+25,25,Power-based,Middle-profile,Downgraded archetype,8,0.06837606837606838,FALSE
+25,25,Power-based,Power-based,Same archetype,67,0.5726495726495726,FALSE
+25,25,Power-based,Reduced/limited role,Reduced/limited role,3,0.02564102564102564,FALSE
+26,26,Complete,Complete,Same archetype,8,0.3333333333333333,FALSE
+26,26,Complete,Contact/discipline-based,Downgraded archetype,4,0.16666666666666666,FALSE
+26,26,Complete,Low offensive profile,Downgraded archetype,2,0.08333333333333333,FALSE
+26,26,Complete,Middle-profile,Downgraded archetype,3,0.125,FALSE
+26,26,Complete,Power-based,Downgraded archetype,7,0.2916666666666667,FALSE
+26,26,Contact/discipline-based,Complete,Upgraded archetype,2,0.015267175572519083,FALSE
+26,26,Contact/discipline-based,Contact/discipline-based,Same archetype,91,0.6946564885496184,FALSE
+26,26,Contact/discipline-based,Low offensive profile,Downgraded archetype,11,0.08396946564885496,FALSE
+26,26,Contact/discipline-based,Middle-profile,Downgraded archetype,13,0.09923664122137404,FALSE
+26,26,Contact/discipline-based,Power-based,Upgraded archetype,9,0.06870229007633588,FALSE
+26,26,Contact/discipline-based,Reduced/limited role,Reduced/limited role,5,0.03816793893129771,FALSE
+26,26,Low offensive profile,Contact/discipline-based,Upgraded archetype,14,0.14583333333333334,FALSE
+26,26,Low offensive profile,Low offensive profile,Same archetype,48,0.5,FALSE
+26,26,Low offensive profile,Middle-profile,Upgraded archetype,5,0.052083333333333336,FALSE
+26,26,Low offensive profile,Power-based,Upgraded archetype,25,0.2604166666666667,FALSE
+26,26,Low offensive profile,Reduced/limited role,Reduced/limited role,4,0.041666666666666664,FALSE
+26,26,Middle-profile,Complete,Upgraded archetype,1,0.018867924528301886,FALSE
+26,26,Middle-profile,Contact/discipline-based,Upgraded archetype,10,0.18867924528301888,FALSE
+26,26,Middle-profile,Low offensive profile,Downgraded archetype,18,0.33962264150943394,FALSE
+26,26,Middle-profile,Middle-profile,Same archetype,11,0.20754716981132076,FALSE
+26,26,Middle-profile,Power-based,Upgraded archetype,11,0.20754716981132076,FALSE
+26,26,Middle-profile,Reduced/limited role,Reduced/limited role,2,0.03773584905660377,FALSE
+26,26,Power-based,Complete,Upgraded archetype,7,0.06140350877192982,FALSE
+26,26,Power-based,Contact/discipline-based,Downgraded archetype,8,0.07017543859649122,FALSE
+26,26,Power-based,Low offensive profile,Downgraded archetype,20,0.17543859649122806,FALSE
+26,26,Power-based,Middle-profile,Downgraded archetype,5,0.043859649122807015,FALSE
+26,26,Power-based,Power-based,Same archetype,73,0.6403508771929824,FALSE
+26,26,Power-based,Reduced/limited role,Reduced/limited role,1,0.008771929824561403,FALSE
+27,27,Complete,Complete,Same archetype,6,0.3157894736842105,FALSE
+27,27,Complete,Contact/discipline-based,Downgraded archetype,7,0.3684210526315789,FALSE
+27,27,Complete,Power-based,Downgraded archetype,6,0.3157894736842105,FALSE
+27,27,Contact/discipline-based,Complete,Upgraded archetype,3,0.0234375,FALSE
+27,27,Contact/discipline-based,Contact/discipline-based,Same archetype,85,0.6640625,FALSE
+27,27,Contact/discipline-based,Low offensive profile,Downgraded archetype,14,0.109375,FALSE
+27,27,Contact/discipline-based,Middle-profile,Downgraded archetype,9,0.0703125,FALSE
+27,27,Contact/discipline-based,Power-based,Upgraded archetype,13,0.1015625,FALSE
+27,27,Contact/discipline-based,Reduced/limited role,Reduced/limited role,4,0.03125,FALSE
+27,27,Low offensive profile,Contact/discipline-based,Upgraded archetype,12,0.13333333333333333,FALSE
+27,27,Low offensive profile,Low offensive profile,Same archetype,38,0.4222222222222222,FALSE
+27,27,Low offensive profile,Middle-profile,Upgraded archetype,15,0.16666666666666666,FALSE
+27,27,Low offensive profile,Power-based,Upgraded archetype,21,0.23333333333333334,FALSE
+27,27,Low offensive profile,Reduced/limited role,Reduced/limited role,4,0.044444444444444446,FALSE
+27,27,Middle-profile,Contact/discipline-based,Upgraded archetype,13,0.325,FALSE
+27,27,Middle-profile,Low offensive profile,Downgraded archetype,12,0.3,FALSE
+27,27,Middle-profile,Middle-profile,Same archetype,7,0.175,FALSE
+27,27,Middle-profile,Power-based,Upgraded archetype,6,0.15,FALSE
+27,27,Middle-profile,Reduced/limited role,Reduced/limited role,2,0.05,FALSE
+27,27,Power-based,Complete,Upgraded archetype,8,0.06299212598425197,FALSE
+27,27,Power-based,Contact/discipline-based,Downgraded archetype,10,0.07874015748031496,FALSE
+27,27,Power-based,Low offensive profile,Downgraded archetype,28,0.2204724409448819,FALSE
+27,27,Power-based,Middle-profile,Downgraded archetype,10,0.07874015748031496,FALSE
+27,27,Power-based,Power-based,Same archetype,69,0.5433070866141733,FALSE
+27,27,Power-based,Reduced/limited role,Reduced/limited role,2,0.015748031496062992,FALSE
+28,28,Complete,Complete,Same archetype,6,0.3157894736842105,FALSE
+28,28,Complete,Contact/discipline-based,Downgraded archetype,6,0.3157894736842105,FALSE
+28,28,Complete,Power-based,Downgraded archetype,7,0.3684210526315789,FALSE
+28,28,Contact/discipline-based,Complete,Upgraded archetype,4,0.034482758620689655,FALSE
+28,28,Contact/discipline-based,Contact/discipline-based,Same archetype,77,0.6637931034482759,FALSE
+28,28,Contact/discipline-based,Low offensive profile,Downgraded archetype,8,0.06896551724137931,FALSE
+28,28,Contact/discipline-based,Middle-profile,Downgraded archetype,9,0.07758620689655173,FALSE
+28,28,Contact/discipline-based,Power-based,Upgraded archetype,11,0.09482758620689655,FALSE
+28,28,Contact/discipline-based,Reduced/limited role,Reduced/limited role,7,0.0603448275862069,FALSE
+28,28,Low offensive profile,Complete,Upgraded archetype,1,0.012345679012345678,FALSE
+28,28,Low offensive profile,Contact/discipline-based,Upgraded archetype,17,0.20987654320987653,FALSE
+28,28,Low offensive profile,Low offensive profile,Same archetype,35,0.43209876543209874,FALSE
+28,28,Low offensive profile,Middle-profile,Upgraded archetype,9,0.1111111111111111,FALSE
+28,28,Low offensive profile,Power-based,Upgraded archetype,17,0.20987654320987653,FALSE
+28,28,Low offensive profile,Reduced/limited role,Reduced/limited role,2,0.024691358024691357,FALSE
+28,28,Middle-profile,Contact/discipline-based,Upgraded archetype,11,0.2894736842105263,FALSE
+28,28,Middle-profile,Low offensive profile,Downgraded archetype,9,0.23684210526315788,FALSE
+28,28,Middle-profile,Middle-profile,Same archetype,10,0.2631578947368421,FALSE
+28,28,Middle-profile,Power-based,Upgraded archetype,7,0.18421052631578946,FALSE
+28,28,Middle-profile,Reduced/limited role,Reduced/limited role,1,0.02631578947368421,FALSE
+28,28,Power-based,Complete,Upgraded archetype,6,0.05,FALSE
+28,28,Power-based,Contact/discipline-based,Downgraded archetype,9,0.075,FALSE
+28,28,Power-based,Low offensive profile,Downgraded archetype,18,0.15,FALSE
+28,28,Power-based,Middle-profile,Downgraded archetype,10,0.08333333333333333,FALSE
+28,28,Power-based,Power-based,Same archetype,75,0.625,FALSE
+28,28,Power-based,Reduced/limited role,Reduced/limited role,2,0.016666666666666666,FALSE
+29,29,Complete,Complete,Same archetype,9,0.5,FALSE
+29,29,Complete,Contact/discipline-based,Downgraded archetype,3,0.16666666666666666,FALSE
+29,29,Complete,Power-based,Downgraded archetype,6,0.3333333333333333,FALSE
+29,29,Contact/discipline-based,Complete,Upgraded archetype,5,0.049019607843137254,FALSE
+29,29,Contact/discipline-based,Contact/discipline-based,Same archetype,64,0.6274509803921569,FALSE
+29,29,Contact/discipline-based,Low offensive profile,Downgraded archetype,13,0.12745098039215685,FALSE
+29,29,Contact/discipline-based,Middle-profile,Downgraded archetype,10,0.09803921568627451,FALSE
+29,29,Contact/discipline-based,Power-based,Upgraded archetype,5,0.049019607843137254,FALSE
+29,29,Contact/discipline-based,Reduced/limited role,Reduced/limited role,5,0.049019607843137254,FALSE
+29,29,Low offensive profile,Contact/discipline-based,Upgraded archetype,13,0.20967741935483872,FALSE
+29,29,Low offensive profile,Low offensive profile,Same archetype,26,0.41935483870967744,FALSE
+29,29,Low offensive profile,Middle-profile,Upgraded archetype,9,0.14516129032258066,FALSE
+29,29,Low offensive profile,Power-based,Upgraded archetype,11,0.1774193548387097,FALSE
+29,29,Low offensive profile,Reduced/limited role,Reduced/limited role,3,0.04838709677419355,FALSE
+29,29,Middle-profile,Contact/discipline-based,Upgraded archetype,7,0.23333333333333334,FALSE
+29,29,Middle-profile,Low offensive profile,Downgraded archetype,10,0.3333333333333333,FALSE
+29,29,Middle-profile,Middle-profile,Same archetype,9,0.3,FALSE
+29,29,Middle-profile,Power-based,Upgraded archetype,3,0.1,FALSE
+29,29,Middle-profile,Reduced/limited role,Reduced/limited role,1,0.03333333333333333,FALSE
+29,29,Power-based,Complete,Upgraded archetype,3,0.02830188679245283,FALSE
+29,29,Power-based,Contact/discipline-based,Downgraded archetype,9,0.08490566037735849,FALSE
+29,29,Power-based,Low offensive profile,Downgraded archetype,11,0.10377358490566038,FALSE
+29,29,Power-based,Middle-profile,Downgraded archetype,6,0.05660377358490566,FALSE
+29,29,Power-based,Power-based,Same archetype,76,0.71698113207547165,FALSE
+29,29,Power-based,Reduced/limited role,Reduced/limited role,1,0.009433962264150943,FALSE
+30,30,Complete,Complete,Same archetype,5,0.3333333333333333,FALSE
+30,30,Complete,Contact/discipline-based,Downgraded archetype,3,0.2,FALSE
+30,30,Complete,Middle-profile,Downgraded archetype,1,0.06666666666666667,FALSE
+30,30,Complete,Power-based,Downgraded archetype,6,0.4,FALSE
+30,30,Contact/discipline-based,Complete,Upgraded archetype,4,0.04395604395604396,FALSE
+30,30,Contact/discipline-based,Contact/discipline-based,Same archetype,59,0.6483516483516484,FALSE
+30,30,Contact/discipline-based,Low offensive profile,Downgraded archetype,13,0.14285714285714285,FALSE
+30,30,Contact/discipline-based,Middle-profile,Downgraded archetype,6,0.06593406593406594,FALSE
+30,30,Contact/discipline-based,Power-based,Upgraded archetype,8,0.08791208791208792,FALSE
+30,30,Contact/discipline-based,Reduced/limited role,Reduced/limited role,1,0.01098901098901099,FALSE
+30,30,Low offensive profile,Complete,Upgraded archetype,1,0.02,FALSE
+30,30,Low offensive profile,Contact/discipline-based,Upgraded archetype,12,0.24,FALSE
+30,30,Low offensive profile,Low offensive profile,Same archetype,17,0.34,FALSE
+30,30,Low offensive profile,Middle-profile,Upgraded archetype,8,0.16,FALSE
+30,30,Low offensive profile,Power-based,Upgraded archetype,10,0.2,FALSE
+30,30,Low offensive profile,Reduced/limited role,Reduced/limited role,2,0.04,FALSE
+30,30,Middle-profile,Complete,Upgraded archetype,1,0.034482758620689655,FALSE
+30,30,Middle-profile,Contact/discipline-based,Upgraded archetype,6,0.20689655172413793,FALSE
+30,30,Middle-profile,Low offensive profile,Downgraded archetype,8,0.27586206896551724,FALSE
+30,30,Middle-profile,Middle-profile,Same archetype,6,0.20689655172413793,FALSE
+30,30,Middle-profile,Power-based,Upgraded archetype,6,0.20689655172413793,FALSE
+30,30,Middle-profile,Reduced/limited role,Reduced/limited role,2,0.06896551724137931,FALSE
+30,30,Power-based,Complete,Upgraded archetype,7,0.07216494845360824,FALSE
+30,30,Power-based,Contact/discipline-based,Downgraded archetype,8,0.08247422680412371,FALSE
+30,30,Power-based,Low offensive profile,Downgraded archetype,11,0.1134020618556701,FALSE
+30,30,Power-based,Middle-profile,Downgraded archetype,5,0.05154639175257732,FALSE
+30,30,Power-based,Power-based,Same archetype,65,0.6701030927835051,FALSE
+30,30,Power-based,Reduced/limited role,Reduced/limited role,1,0.010309278350515464,FALSE
+31,31,Complete,Complete,Same archetype,6,0.375,FALSE
+31,31,Complete,Contact/discipline-based,Downgraded archetype,6,0.375,FALSE
+31,31,Complete,Low offensive profile,Downgraded archetype,1,0.0625,FALSE
+31,31,Complete,Power-based,Downgraded archetype,3,0.1875,FALSE
+31,31,Contact/discipline-based,Complete,Upgraded archetype,2,0.023255813953488372,FALSE
+31,31,Contact/discipline-based,Contact/discipline-based,Same archetype,67,0.7790697674418605,FALSE
+31,31,Contact/discipline-based,Low offensive profile,Downgraded archetype,4,0.046511627906976744,FALSE
+31,31,Contact/discipline-based,Middle-profile,Downgraded archetype,8,0.09302325581395349,FALSE
+31,31,Contact/discipline-based,Power-based,Upgraded archetype,5,0.05813953488372093,FALSE
+31,31,Low offensive profile,Contact/discipline-based,Upgraded archetype,7,0.19444444444444445,FALSE
+31,31,Low offensive profile,Low offensive profile,Same archetype,20,0.5555555555555556,FALSE
+31,31,Low offensive profile,Middle-profile,Upgraded archetype,5,0.1388888888888889,FALSE
+31,31,Low offensive profile,Power-based,Upgraded archetype,4,0.1111111111111111,FALSE
+31,31,Middle-profile,Complete,Upgraded archetype,1,0.03571428571428571,FALSE
+31,31,Middle-profile,Contact/discipline-based,Upgraded archetype,10,0.35714285714285715,FALSE
+31,31,Middle-profile,Low offensive profile,Downgraded archetype,5,0.17857142857142858,FALSE
+31,31,Middle-profile,Middle-profile,Same archetype,5,0.17857142857142858,FALSE
+31,31,Middle-profile,Power-based,Upgraded archetype,7,0.25,FALSE
+31,31,Power-based,Complete,Upgraded archetype,6,0.07692307692307693,FALSE
+31,31,Power-based,Contact/discipline-based,Downgraded archetype,7,0.08974358974358974,FALSE
+31,31,Power-based,Low offensive profile,Downgraded archetype,20,0.2564102564102564,FALSE
+31,31,Power-based,Middle-profile,Downgraded archetype,7,0.08974358974358974,FALSE
+31,31,Power-based,Power-based,Same archetype,38,0.48717948717948717,FALSE
+32,32,Complete,Complete,Same archetype,3,0.21428571428571427,FALSE
+32,32,Complete,Contact/discipline-based,Downgraded archetype,3,0.21428571428571427,FALSE
+32,32,Complete,Low offensive profile,Downgraded archetype,2,0.14285714285714285,FALSE
+32,32,Complete,Power-based,Downgraded archetype,6,0.42857142857142855,FALSE
+32,32,Contact/discipline-based,Complete,Upgraded archetype,2,0.022727272727272728,FALSE
+32,32,Contact/discipline-based,Contact/discipline-based,Same archetype,64,0.7272727272727273,FALSE
+32,32,Contact/discipline-based,Low offensive profile,Downgraded archetype,9,0.10227272727272728,FALSE
+32,32,Contact/discipline-based,Middle-profile,Downgraded archetype,5,0.056818181818181816,FALSE
+32,32,Contact/discipline-based,Power-based,Upgraded archetype,6,0.06818181818181818,FALSE
+32,32,Contact/discipline-based,Reduced/limited role,Reduced/limited role,2,0.022727272727272728,FALSE
+32,32,Low offensive profile,Contact/discipline-based,Upgraded archetype,6,0.17647058823529413,FALSE
+32,32,Low offensive profile,Low offensive profile,Same archetype,20,0.5882352941176471,FALSE
+32,32,Low offensive profile,Middle-profile,Upgraded archetype,2,0.058823529411764705,FALSE
+32,32,Low offensive profile,Power-based,Upgraded archetype,5,0.14705882352941177,FALSE
+32,32,Low offensive profile,Reduced/limited role,Reduced/limited role,1,0.029411764705882353,FALSE
+32,32,Middle-profile,Contact/discipline-based,Upgraded archetype,5,0.22727272727272727,FALSE
+32,32,Middle-profile,Low offensive profile,Downgraded archetype,4,0.18181818181818182,FALSE
+32,32,Middle-profile,Middle-profile,Same archetype,9,0.4090909090909091,FALSE
+32,32,Middle-profile,Power-based,Upgraded archetype,4,0.18181818181818182,FALSE
+32,32,Power-based,Complete,Upgraded archetype,1,0.01694915254237288,FALSE
+32,32,Power-based,Contact/discipline-based,Downgraded archetype,7,0.11864406779661017,FALSE
+32,32,Power-based,Low offensive profile,Downgraded archetype,10,0.1694915254237288,FALSE
+32,32,Power-based,Middle-profile,Downgraded archetype,6,0.1016949152542373,FALSE
+32,32,Power-based,Power-based,Same archetype,35,0.5932203389830508,FALSE
+33,33,Complete,Complete,Same archetype,2,0.2857142857142857,TRUE
+33,33,Complete,Contact/discipline-based,Downgraded archetype,3,0.42857142857142855,TRUE
+33,33,Complete,Power-based,Downgraded archetype,2,0.2857142857142857,TRUE
+33,33,Contact/discipline-based,Complete,Upgraded archetype,2,0.03225806451612903,FALSE
+33,33,Contact/discipline-based,Contact/discipline-based,Same archetype,45,0.7258064516129032,FALSE
+33,33,Contact/discipline-based,Low offensive profile,Downgraded archetype,8,0.12903225806451613,FALSE
+33,33,Contact/discipline-based,Middle-profile,Downgraded archetype,3,0.04838709677419355,FALSE
+33,33,Contact/discipline-based,Power-based,Upgraded archetype,3,0.04838709677419355,FALSE
+33,33,Contact/discipline-based,Reduced/limited role,Reduced/limited role,1,0.016129032258064516,FALSE
+33,33,Low offensive profile,Contact/discipline-based,Upgraded archetype,3,0.10714285714285714,FALSE
+33,33,Low offensive profile,Low offensive profile,Same archetype,13,0.4642857142857143,FALSE
+33,33,Low offensive profile,Middle-profile,Upgraded archetype,4,0.14285714285714285,FALSE
+33,33,Low offensive profile,Power-based,Upgraded archetype,7,0.25,FALSE
+33,33,Low offensive profile,Reduced/limited role,Reduced/limited role,1,0.03571428571428571,FALSE
+33,33,Middle-profile,Contact/discipline-based,Upgraded archetype,5,0.23809523809523808,FALSE
+33,33,Middle-profile,Low offensive profile,Downgraded archetype,4,0.19047619047619047,FALSE
+33,33,Middle-profile,Middle-profile,Same archetype,7,0.3333333333333333,FALSE
+33,33,Middle-profile,Power-based,Upgraded archetype,5,0.23809523809523808,FALSE
+33,33,Power-based,Complete,Upgraded archetype,4,0.07547169811320754,FALSE
+33,33,Power-based,Contact/discipline-based,Downgraded archetype,8,0.1509433962264151,FALSE
+33,33,Power-based,Low offensive profile,Downgraded archetype,6,0.11320754716981132,FALSE
+33,33,Power-based,Middle-profile,Downgraded archetype,3,0.05660377358490566,FALSE
+33,33,Power-based,Power-based,Same archetype,30,0.5660377358490566,FALSE
+33,33,Power-based,Reduced/limited role,Reduced/limited role,2,0.03773584905660377,FALSE
+34,34,Complete,Complete,Same archetype,2,0.2857142857142857,TRUE
+34,34,Complete,Contact/discipline-based,Downgraded archetype,3,0.42857142857142855,TRUE
+34,34,Complete,Low offensive profile,Downgraded archetype,1,0.14285714285714285,TRUE
+34,34,Complete,Power-based,Downgraded archetype,1,0.14285714285714285,TRUE
+34,34,Contact/discipline-based,Complete,Upgraded archetype,2,0.045454545454545456,FALSE
+34,34,Contact/discipline-based,Contact/discipline-based,Same archetype,35,0.7954545454545454,FALSE
+34,34,Contact/discipline-based,Low offensive profile,Downgraded archetype,2,0.045454545454545456,FALSE
+34,34,Contact/discipline-based,Middle-profile,Downgraded archetype,2,0.045454545454545456,FALSE
+34,34,Contact/discipline-based,Power-based,Upgraded archetype,3,0.06818181818181818,FALSE
+34,34,Low offensive profile,Contact/discipline-based,Upgraded archetype,1,0.09090909090909091,FALSE
+34,34,Low offensive profile,Low offensive profile,Same archetype,5,0.45454545454545453,FALSE
+34,34,Low offensive profile,Middle-profile,Upgraded archetype,3,0.2727272727272727,FALSE
+34,34,Low offensive profile,Power-based,Upgraded archetype,2,0.18181818181818182,FALSE
+34,34,Middle-profile,Contact/discipline-based,Upgraded archetype,5,0.5,FALSE
+34,34,Middle-profile,Low offensive profile,Downgraded archetype,2,0.2,FALSE
+34,34,Middle-profile,Middle-profile,Same archetype,2,0.2,FALSE
+34,34,Middle-profile,Power-based,Upgraded archetype,1,0.1,FALSE
+34,34,Power-based,Complete,Upgraded archetype,3,0.08108108108108109,FALSE
+34,34,Power-based,Contact/discipline-based,Downgraded archetype,3,0.08108108108108109,FALSE
+34,34,Power-based,Low offensive profile,Downgraded archetype,7,0.1891891891891892,FALSE
+34,34,Power-based,Middle-profile,Downgraded archetype,2,0.05405405405405406,FALSE
+34,34,Power-based,Power-based,Same archetype,22,0.5945945945945946,FALSE
+35,35,Complete,Complete,Same archetype,3,0.5,TRUE
+35,35,Complete,Contact/discipline-based,Downgraded archetype,1,0.16666666666666666,TRUE
+35,35,Complete,Power-based,Downgraded archetype,2,0.3333333333333333,TRUE
+35,35,Contact/discipline-based,Complete,Upgraded archetype,2,0.07407407407407407,FALSE
+35,35,Contact/discipline-based,Contact/discipline-based,Same archetype,22,0.8148148148148148,FALSE
+35,35,Contact/discipline-based,Low offensive profile,Downgraded archetype,1,0.037037037037037035,FALSE
+35,35,Contact/discipline-based,Middle-profile,Downgraded archetype,2,0.07407407407407407,FALSE
+35,35,Low offensive profile,Contact/discipline-based,Upgraded archetype,3,0.23076923076923078,FALSE
+35,35,Low offensive profile,Low offensive profile,Same archetype,6,0.46153846153846156,FALSE
+35,35,Low offensive profile,Middle-profile,Upgraded archetype,1,0.07692307692307693,FALSE
+35,35,Low offensive profile,Power-based,Upgraded archetype,2,0.15384615384615385,FALSE
+35,35,Low offensive profile,Reduced/limited role,Reduced/limited role,1,0.07692307692307693,FALSE
+35,35,Middle-profile,Contact/discipline-based,Upgraded archetype,1,0.3333333333333333,TRUE
+35,35,Middle-profile,Low offensive profile,Downgraded archetype,2,0.6666666666666666,TRUE
+35,35,Power-based,Complete,Upgraded archetype,3,0.11538461538461539,FALSE
+35,35,Power-based,Contact/discipline-based,Downgraded archetype,2,0.07692307692307693,FALSE
+35,35,Power-based,Low offensive profile,Downgraded archetype,2,0.07692307692307693,FALSE
+35,35,Power-based,Middle-profile,Downgraded archetype,1,0.038461538461538464,FALSE
+35,35,Power-based,Power-based,Same archetype,18,0.6923076923076923,FALSE
+36,36,Complete,Complete,Same archetype,1,0.14285714285714285,TRUE
+36,36,Complete,Contact/discipline-based,Downgraded archetype,3,0.42857142857142855,TRUE
+36,36,Complete,Middle-profile,Downgraded archetype,1,0.14285714285714285,TRUE
+36,36,Complete,Power-based,Downgraded archetype,2,0.2857142857142857,TRUE
+36,36,Contact/discipline-based,Complete,Upgraded archetype,1,0.0625,FALSE
+36,36,Contact/discipline-based,Contact/discipline-based,Same archetype,11,0.6875,FALSE
+36,36,Contact/discipline-based,Low offensive profile,Downgraded archetype,2,0.125,FALSE
+36,36,Contact/discipline-based,Middle-profile,Downgraded archetype,1,0.0625,FALSE
+36,36,Contact/discipline-based,Power-based,Upgraded archetype,1,0.0625,FALSE
+36,36,Low offensive profile,Low offensive profile,Same archetype,4,0.6666666666666666,TRUE
+36,36,Low offensive profile,Middle-profile,Upgraded archetype,1,0.16666666666666666,TRUE
+36,36,Low offensive profile,Reduced/limited role,Reduced/limited role,1,0.16666666666666666,TRUE
+36,36,Middle-profile,Contact/discipline-based,Upgraded archetype,2,0.6666666666666666,TRUE
+36,36,Middle-profile,Power-based,Upgraded archetype,1,0.3333333333333333,TRUE
+36,36,Power-based,Contact/discipline-based,Downgraded archetype,1,0.07142857142857142,FALSE
+36,36,Power-based,Low offensive profile,Downgraded archetype,1,0.07142857142857142,FALSE
+36,36,Power-based,Middle-profile,Downgraded archetype,1,0.07142857142857142,FALSE
+36,36,Power-based,Power-based,Same archetype,11,0.7857142857142857,FALSE
+37,37,Complete,Complete,Same archetype,1,0.3333333333333333,TRUE
+37,37,Complete,Contact/discipline-based,Downgraded archetype,1,0.3333333333333333,TRUE
+37,37,Complete,Middle-profile,Downgraded archetype,1,0.3333333333333333,TRUE
+37,37,Contact/discipline-based,Complete,Upgraded archetype,1,0.09090909090909091,FALSE
+37,37,Contact/discipline-based,Contact/discipline-based,Same archetype,6,0.5454545454545454,FALSE
+37,37,Contact/discipline-based,Low offensive profile,Downgraded archetype,1,0.09090909090909091,FALSE
+37,37,Contact/discipline-based,Middle-profile,Downgraded archetype,2,0.18181818181818182,FALSE
+37,37,Contact/discipline-based,Power-based,Upgraded archetype,1,0.09090909090909091,FALSE
+37,37,Low offensive profile,Low offensive profile,Same archetype,3,1,TRUE
+37,37,Middle-profile,Contact/discipline-based,Upgraded archetype,1,0.3333333333333333,TRUE
+37,37,Middle-profile,Low offensive profile,Downgraded archetype,1,0.3333333333333333,TRUE
+37,37,Middle-profile,Power-based,Upgraded archetype,1,0.3333333333333333,TRUE
+37,37,Power-based,Complete,Upgraded archetype,1,0.1,FALSE
+37,37,Power-based,Contact/discipline-based,Downgraded archetype,1,0.1,FALSE
+37,37,Power-based,Low offensive profile,Downgraded archetype,1,0.1,FALSE
+37,37,Power-based,Middle-profile,Downgraded archetype,1,0.1,FALSE
+37,37,Power-based,Power-based,Same archetype,6,0.6,FALSE
+38,38,Complete,Contact/discipline-based,Downgraded archetype,3,0.75,TRUE
+38,38,Complete,Power-based,Downgraded archetype,1,0.25,TRUE
+38,38,Contact/discipline-based,Contact/discipline-based,Same archetype,5,1,TRUE
+38,38,Low offensive profile,Contact/discipline-based,Upgraded archetype,1,0.25,TRUE
+38,38,Low offensive profile,Low offensive profile,Same archetype,2,0.5,TRUE
+38,38,Low offensive profile,Power-based,Upgraded archetype,1,0.25,TRUE
+38,38,Power-based,Low offensive profile,Downgraded archetype,1,0.25,TRUE
+38,38,Power-based,Middle-profile,Downgraded archetype,1,0.25,TRUE
+38,38,Power-based,Power-based,Same archetype,2,0.5,TRUE
+39,39,Contact/discipline-based,Contact/discipline-based,Same archetype,5,1,TRUE
+39,39,Low offensive profile,Low offensive profile,Same archetype,1,1,TRUE
+39,39,Middle-profile,Middle-profile,Same archetype,1,1,TRUE
+39,39,Power-based,Contact/discipline-based,Downgraded archetype,1,0.3333333333333333,TRUE
+39,39,Power-based,Middle-profile,Downgraded archetype,1,0.3333333333333333,TRUE
+39,39,Power-based,Power-based,Same archetype,1,0.3333333333333333,TRUE
+40,40+,Complete,Complete,Same archetype,1,1,TRUE
+40,40+,Contact/discipline-based,Complete,Upgraded archetype,1,0.25,TRUE
+40,40+,Contact/discipline-based,Contact/discipline-based,Same archetype,3,0.75,TRUE
+40,40+,Power-based,Complete,Upgraded archetype,1,0.2,TRUE
+40,40+,Power-based,Low offensive profile,Downgraded archetype,2,0.4,TRUE
+40,40+,Power-based,Power-based,Same archetype,2,0.4,TRUE
