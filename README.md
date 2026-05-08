@@ -11,7 +11,7 @@ The Statcast scraping file should not be rerun unless absolutely necessary. It p
 
 ## Code Files
 
-### 1. `01_statcast_scrape_and_build_data.R`
+### 1. `Statcast Data Scrape MA 677.R`
 
 This script pulls and builds the main dataset used in the analysis.
 
@@ -29,7 +29,7 @@ It does the following:
 
 Do not rerun this script unless the raw data need to be rebuilt. It is the slowest file in the project.
 
-### 2. `02_eda_charts.R`
+### 2. `Final EDA MA 677.R`
 
 This script creates descriptive summaries and exploratory charts.
 
@@ -50,7 +50,7 @@ It includes:
 
 The purpose of this script is to explain the structure of the dataset before moving into survival modeling.
 
-### 3. `03_survival_modeling.R`
+### 3. `Survival Analysis MA 677.R`
 
 This script runs the main survivorship and transition analysis.
 
@@ -83,7 +83,7 @@ The main modeling outcome is future survival, defined as whether a hitter appear
 
 The scripts save outputs into the `outputs/` folder. The main folders are:
 
-### `outputs/model_data/`
+### `Outputs/Model Data/`
 
 These are the core datasets created by the scraping and data-building file.
 
@@ -116,7 +116,7 @@ Key files include:
 - `season_thresholds.csv`  
   Season-specific percentile thresholds used to classify hitter archetypes.
 
-### `outputs/summaries/`
+### `Outputs/Summaries/`
 
 These are summary files created during the data-building process.
 
@@ -134,7 +134,7 @@ Key files include:
 - `overall_broad_archetype_distribution.csv`  
   Overall counts of the broader archetype groups used in the analysis.
 
-### `outputs/eda_tables/`
+### `Outputs/EDA/`
 
 These are tables created by the EDA script.
 
@@ -167,7 +167,7 @@ Key files include:
 - `median_summary.csv`  
   Median and interquartile range summaries for plate appearances, xwOBA, exit velocity, chase rate, whiff rate, and zone contact rate.
 
-### `outputs/analysis_tables/`
+### `Outputs/Analysis/`
 
 These are tables created by the survival modeling script.
 
@@ -269,7 +269,7 @@ The project groups hitters into five broad offensive profiles:
 - `Middle-profile`
 - `Low offensive profile`
 
-These categories are built using season-specific thresholds so that players are classified relative to the offensive environment of their season.
+These categories are defined using season-specific thresholds, so players are classified relative to their season's offensive environment.
 
 ## Project Goal
 
